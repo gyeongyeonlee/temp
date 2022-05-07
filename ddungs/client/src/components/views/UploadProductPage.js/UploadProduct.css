@@ -1,0 +1,20 @@
+/* src/components/views/UploadProductPage/UploadProductPage.css */
+
+#container {
+    display: table;
+    table-layout: fixed;
+    width: 980px;
+    margin: 0 auto;
+}
+.content {
+    display: table-cell;
+    width: 689px;
+    padding-right: 25px;
+    border-right: 1px solid #e5e5e5;
+    vertical-align: top;
+}
+.aside {
+    display: table-cell;
+    padding: 0 0 30px 25px;
+    vertical-align: top;
+}
